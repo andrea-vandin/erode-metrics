@@ -1,0 +1,56 @@
+begin model AM
+ begin parameters
+   p1 = 1.0
+   p2 = 1.0
+   p3 = 1.0
+   p4 = 1.0
+ end parameters
+ begin init
+  x0 = 1
+  x1 = 1
+  x2 = 1
+ end init
+ begin partition
+ {x1}
+ end partition
+begin reactions
+  x0 + x2 -> x2 + x1, p1
+  x0 + x2 -> x0 + x1, p2
+  x0 + x1 -> x0 + x0, p3
+  x2 + x1 -> x2 + x2, p4
+end reactions
+//reduceBE(prePartition=USER,reducedFile="AMprep.ode")
+//onTheFlyBR(Q=ALL , Qbar = {(x0,x1),(x1,x0),(x2,x1),(x1,x2)} , QeqQminusQbar = true)
+//write(fileOut="AMode.ode",format=ODE)
+//onTheFlyBR(Q={(x0,x2),(x2,x0)} , Qbar = NONE )
+
+//
+//onTheFlyBR(Q={(x0,x2)} , Qbar = NONE )
+////{Var[y0, y2]}, {Var[y0, y1], Var[y1, y0], Var[y1, y2], Var[y2, y1]}
+//onTheFlyBR(Q={(x0,x2)} , Qbar = {(x0,x1)} )
+//onTheFlyBR(Q={(x0,x2)} , Qbar = NONE )
+//onTheFlyBR(Q={(x0,x1),(x1,x2)} , Qbar = NONE )
+//onTheFlyBR(Q={(x0,x1),(x1,x2)} , Qbar = {(x1,x1),(x2,x2)} )
+//onTheFlyBR(Q={(x0,x1),(x1,x2)} , Qbar = {(x0,x2)} )
+//
+//onTheFlyBR(Q={(x1,x0)} , Qbar = {(x0,x2),(x0,x0)} )
+//onTheFlyBR(Q={(x1,x0)} , Qbar = {(x2,x0),(x0,x0)} )
+//onTheFlyBR(Q={(x0,x1)} , Qbar = {(x2,x0),(x0,x0)} )
+//onTheFlyBR(Q={(x0,x1)} , Qbar = {(x2,x0),(x0,x0),(x2,x2)} )
+//
+//
+//onTheFlyBR(Q={(x1,x0)} , Qbar = {(x0,x2),(x2,x0),(x0,x0)} )
+//onTheFlyBR(Q={(x1,x0)} , Qbar = {        (x2,x0),(x0,x0)} )
+//onTheFlyBR(Q={(x1,x0)} , Qbar = {(x0,x2),        (x0,x0)} )
+//
+//onTheFlyBR(Q={(x0,x1)} , Qbar = {(x0,x2),(x0,x0)} )
+//
+//onTheFlyBR(Q=ALL , Qbar = NONE )
+////write(fileOut="AMOde.ode",format=ODE)
+end model
+////onTheFlyBR(Q={(x0,x1),(x1,x2)} , Qbar = NONE )
+// //"y0~y1"  "y0~y0",           "y2~y2" "y1~y2"  "y2~y1"  "y1~y0"
+////[(x0,x1), (x0,x0), (x1,x1), (x2,x2), (x1,x2), (x2,x1), (x1,x0)]
+////[(x0,x1), (x0,x0),          (x2,x2)  (x1,x2)  (x2,x1)  (x1,x0)]
+//
+////  [(x0,x1), (x0,x0), (x1,x0), (x2,x1), (x1,x2), (x0,x2), (x2,x0)]
