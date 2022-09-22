@@ -1,0 +1,6 @@
+#DECLARATION
+init deadlock Target Done
+#END
+1 Target Done
+14 init
+27 Done

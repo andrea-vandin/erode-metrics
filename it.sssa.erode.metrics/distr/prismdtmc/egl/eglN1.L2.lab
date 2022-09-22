@@ -1,0 +1,30 @@
+#DECLARATION
+init deadlock knowB knowA
+#END
+1 init
+13 knowB
+15 knowB
+17 knowB
+19 knowB
+20 deadlock
+21 deadlock
+22 deadlock
+23 deadlock
+24 deadlock
+25 deadlock knowB
+26 deadlock
+27 deadlock knowB
+33 knowB
+35 knowB
+37 knowB
+39 knowB
+40 knowB
+41 knowB
+42 knowB
+43 knowB
+44 deadlock
+45 deadlock knowB
+46 deadlock
+47 deadlock knowB
+48 deadlock knowB
+49 deadlock knowB

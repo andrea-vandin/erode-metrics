@@ -1,0 +1,29 @@
+assignment example
+- Non so quale e' dei due:
+	- https://developers.google.com/optimization/assignment/overview
+	- https://developers.google.com/optimization/flow/assignment_min_cost_flow
+	- Probabilmente e': https://developers.google.com/optimization/assignment/assignment_example
+- piu o meno quello che ci serve ma
+	- mancano boundaries (sono 0,1)
+	- fanno int variable, ma serve real
+- usi sempre la stessa 'matrice', cambi solo 'objective'.
+	
+	
+	
+
+Dobbiamo risolvere eq (3), che corrispondono al min[] che appare prima
+ 
+ 
+ 
+Def 3: \pi goes from pairs to couplings
+- A_i e A_j sono righe della matrice A
+
+
+
+
+
+---
+OR-tools
+- https://developers.google.com/optimization/introduction/java
+- https://developers.google.com/optimization/install/java/mac
+- https://developers.google.com/optimization/assignment/assignment_example

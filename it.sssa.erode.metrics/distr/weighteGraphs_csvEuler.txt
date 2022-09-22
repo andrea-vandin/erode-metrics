@@ -1,0 +1,3915 @@
+ciao
+
+
+0
+HANDLING  dom_Fairbanks_1994dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Fairbanks_1994dAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 432 ms, sys: 97.6 ms, total: 529 ms
+Wall time: 7.14 s
+
+
+1
+HANDLING  dom_Torr_1996aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Torr_1996aAEuler.csv
+Computing the BB partition
+We obtained 5 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 429 ms, sys: 126 ms, total: 555 ms
+Wall time: 6.85 s
+
+
+2
+HANDLING  dom_ValLaillet_2008bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_ValLaillet_2008bAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 589 ms, sys: 293 ms, total: 882 ms
+Wall time: 7.99 s
+
+
+3
+HANDLING  dom_McMahan_1984AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_McMahan_1984AEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 487 ms, sys: 312 ms, total: 799 ms
+Wall time: 7.13 s
+
+
+4
+HANDLING  dom_DeLaO_2019bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_DeLaO_2019bAEuler.csv
+Computing the BB partition
+We obtained 23 blocks out of 23 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 959 ms, sys: 597 ms, total: 1.56 s
+Wall time: 18.1 s
+
+
+5
+HANDLING  dom_Farentinos_1972bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Farentinos_1972bAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 629 ms, sys: 392 ms, total: 1.02 s
+Wall time: 6.9 s
+
+
+6
+HANDLING  dom_Douglis_1948bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Douglis_1948bAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 542 ms, sys: 441 ms, total: 983 ms
+Wall time: 6.73 s
+
+
+7
+HANDLING  dom_Kohda_1991AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Kohda_1991AEuler.csv
+Computing the BB partition
+We obtained 21 blocks out of 31 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.42857, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 1.45 s, sys: 965 ms, total: 2.41 s
+Wall time: 44.1 s
+
+
+8
+HANDLING  dom_Williamson_2019cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2019cAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 546 ms, sys: 285 ms, total: 831 ms
+Wall time: 7.71 s
+
+
+9
+HANDLING  dom_Moore_1978aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Moore_1978aAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 660 ms, sys: 426 ms, total: 1.09 s
+Wall time: 7.89 s
+
+
+10
+HANDLING  dom_Parsons_1980bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Parsons_1980bAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 553 ms, sys: 368 ms, total: 921 ms
+Wall time: 7.88 s
+
+
+11
+HANDLING  dom_Wikberg_2013dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Wikberg_2013dAEuler.csv
+Computing the BB partition
+We obtained 5 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 488 ms, sys: 428 ms, total: 916 ms
+Wall time: 6.62 s
+
+
+12
+HANDLING  dom_Norscia_2015iAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Norscia_2015iAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 460 ms, sys: 279 ms, total: 739 ms
+Wall time: 6.74 s
+
+
+13
+HANDLING  dom_Jones_1980aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Jones_1980aAEuler.csv
+Computing the BB partition
+We obtained 18 blocks out of 18 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 998 ms, sys: 587 ms, total: 1.59 s
+Wall time: 10.8 s
+
+
+14
+HANDLING  dom_Watt_1986bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Watt_1986bAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 596 ms, sys: 502 ms, total: 1.1 s
+Wall time: 7.59 s
+
+
+15
+HANDLING  dom_Williamson_2017fAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2017fAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 618 ms, sys: 439 ms, total: 1.06 s
+Wall time: 8.82 s
+
+
+16
+HANDLING  dom_Williamson_2016bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2016bAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 602 ms, sys: 289 ms, total: 891 ms
+Wall time: 10.8 s
+
+
+17
+HANDLING  dom_Waterhouse_1976cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Waterhouse_1976cAEuler.csv
+Computing the BB partition
+We obtained 19 blocks out of 19 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 801 ms, sys: 514 ms, total: 1.32 s
+Wall time: 11.1 s
+
+
+18
+HANDLING  dom_Sharpe_2013dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Sharpe_2013dAEuler.csv
+Computing the BB partition
+We obtained 13 blocks out of 13 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 668 ms, sys: 377 ms, total: 1.05 s
+Wall time: 8.69 s
+
+
+19
+HANDLING  dom_Cote_2000AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Cote_2000AEuler.csv
+Computing the BB partition
+We obtained 44 blocks out of 45 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 1.62 s, sys: 796 ms, total: 2.41 s
+Wall time: 3min 41s
+
+
+20
+HANDLING  dom_Lott_1979AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Lott_1979AEuler.csv
+Computing the BB partition
+We obtained 26 blocks out of 26 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 1.08 s, sys: 396 ms, total: 1.47 s
+Wall time: 21.8 s
+
+
+21
+HANDLING  dom_Berman_2004aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Berman_2004aAEuler.csv
+Computing the BB partition
+We obtained 22 blocks out of 22 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 789 ms, sys: 291 ms, total: 1.08 s
+Wall time: 16.1 s
+
+
+22
+HANDLING  dom_StrayerCummins_1980dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_StrayerCummins_1980dAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 683 ms, sys: 352 ms, total: 1.03 s
+Wall time: 6.64 s
+
+
+23
+HANDLING  dom_Masure_1934AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Masure_1934AEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 523 ms, sys: 249 ms, total: 772 ms
+Wall time: 8.35 s
+
+
+24
+HANDLING  dom_Hayaki_1989bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hayaki_1989bAEuler.csv
+Computing the BB partition
+We obtained 14 blocks out of 21 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 773 ms, sys: 312 ms, total: 1.09 s
+Wall time: 16.7 s
+
+
+25
+HANDLING  dom_Nakano_1994AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Nakano_1994AEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 11 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.3665, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 642 ms, sys: 454 ms, total: 1.1 s
+Wall time: 8.31 s
+
+
+26
+HANDLING  dom_Farentinos_1972dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Farentinos_1972dAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 11 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 606 ms, sys: 301 ms, total: 908 ms
+Wall time: 7.53 s
+
+
+27
+HANDLING  dom_Wells_1979AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Wells_1979AEuler.csv
+Computing the BB partition
+We obtained 25 blocks out of 25 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 948 ms, sys: 422 ms, total: 1.37 s
+Wall time: 23.2 s
+
+
+28
+HANDLING  dom_Masure_1934aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Masure_1934aAEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 13 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 866 ms, sys: 473 ms, total: 1.34 s
+Wall time: 12.1 s
+
+
+29
+HANDLING  dom_White_2007aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_White_2007aAEuler.csv
+Computing the BB partition
+We obtained 5 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 616 ms, sys: 438 ms, total: 1.05 s
+Wall time: 7.66 s
+
+
+30
+HANDLING  dom_Prieto_1978AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Prieto_1978AEuler.csv
+Computing the BB partition
+We obtained 18 blocks out of 18 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 783 ms, sys: 505 ms, total: 1.29 s
+Wall time: 9.67 s
+
+
+31
+HANDLING  dom_Miller_2010cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Miller_2010cAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 520 ms, sys: 403 ms, total: 923 ms
+Wall time: 6.67 s
+
+
+32
+HANDLING  dom_Fairbanks_1994bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Fairbanks_1994bAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 559 ms, sys: 229 ms, total: 788 ms
+Wall time: 7.09 s
+
+
+33
+HANDLING  rhesus_monkeyAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/rhesus_monkeyAEuler.csv
+Computing the BB partition
+We obtained 16 blocks out of 16 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 659 ms, sys: 238 ms, total: 897 ms
+Wall time: 9 s
+
+
+34
+HANDLING  dom_Essler_2016dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Essler_2016dAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.8, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 476 ms, sys: 218 ms, total: 693 ms
+Wall time: 6.73 s
+
+
+35
+HANDLING  dom_ScottLockhard_1999aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_ScottLockhard_1999aAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 437 ms, sys: 162 ms, total: 600 ms
+Wall time: 6.8 s
+
+
+36
+HANDLING  dom_Ito_1993aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Ito_1993aAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 502 ms, sys: 214 ms, total: 717 ms
+Wall time: 7.14 s
+
+
+37
+HANDLING  dom_Norscia_2015bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Norscia_2015bAEuler.csv
+Computing the BB partition
+We obtained 13 blocks out of 13 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 642 ms, sys: 249 ms, total: 891 ms
+Wall time: 8.48 s
+
+
+38
+HANDLING  dom_Tarvin_1997AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Tarvin_1997AEuler.csv
+Computing the BB partition
+We obtained 15 blocks out of 16 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 648 ms, sys: 226 ms, total: 874 ms
+Wall time: 9.12 s
+
+
+39
+HANDLING  dom_DeLaO_2019dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_DeLaO_2019dAEuler.csv
+Computing the BB partition
+We obtained 22 blocks out of 22 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 1.06 s, sys: 465 ms, total: 1.53 s
+Wall time: 13.6 s
+
+
+40
+HANDLING  dom_Monnin_1999AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Monnin_1999AEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.92848, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 518 ms, sys: 338 ms, total: 856 ms
+Wall time: 6.67 s
+
+
+41
+HANDLING  dom_Lahti_1994aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Lahti_1994aAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 434 ms, sys: 254 ms, total: 688 ms
+Wall time: 6.76 s
+
+
+42
+HANDLING  dom_Correa_2013dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Correa_2013dAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.70961, 0.82273, 0.86491, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 521 ms, sys: 275 ms, total: 796 ms
+Wall time: 6.81 s
+
+
+43
+HANDLING  dom_Williamson_2016iAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2016iAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 613 ms, sys: 253 ms, total: 866 ms
+Wall time: 7.96 s
+
+
+44
+HANDLING  dom_Setchell_2005aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Setchell_2005aAEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 11 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.97297, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 483 ms, sys: 251 ms, total: 733 ms
+Wall time: 7.71 s
+
+
+45
+HANDLING  dom_Lee_1979aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Lee_1979aAEuler.csv
+Computing the BB partition
+We obtained 15 blocks out of 15 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 687 ms, sys: 332 ms, total: 1.02 s
+Wall time: 9.62 s
+
+
+46
+HANDLING  dom_deWaal_1985AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_deWaal_1985AEuler.csv
+Computing the BB partition
+We obtained 24 blocks out of 24 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 885 ms, sys: 389 ms, total: 1.27 s
+Wall time: 29.9 s
+
+
+47
+HANDLING  dom_CluttonBrock_1976AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_CluttonBrock_1976AEuler.csv
+Computing the BB partition
+We obtained 17 blocks out of 17 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 677 ms, sys: 480 ms, total: 1.16 s
+Wall time: 17.3 s
+
+
+48
+HANDLING  dom_StrayerCummins_1980bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_StrayerCummins_1980bAEuler.csv
+Computing the BB partition
+We obtained 15 blocks out of 16 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 646 ms, sys: 290 ms, total: 935 ms
+Wall time: 10.2 s
+
+
+49
+HANDLING  dom_Williamson_2019hAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2019hAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 513 ms, sys: 231 ms, total: 744 ms
+Wall time: 7.53 s
+
+
+50
+HANDLING  dom_Mather_1985AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Mather_1985AEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 392 ms, sys: 151 ms, total: 543 ms
+Wall time: 6.81 s
+
+
+51
+HANDLING  dom_DeLaFuente_2019AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_DeLaFuente_2019AEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 404 ms, sys: 236 ms, total: 640 ms
+Wall time: 6.86 s
+
+
+52
+HANDLING  dom_Wittemeyer_2007AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Wittemeyer_2007AEuler.csv
+Computing the BB partition
+We obtained 18 blocks out of 20 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 689 ms, sys: 179 ms, total: 868 ms
+Wall time: 14.8 s
+
+
+53
+HANDLING  dom_Korstjens_2002AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Korstjens_2002AEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 825 ms, sys: 270 ms, total: 1.1 s
+Wall time: 7.52 s
+
+
+54
+HANDLING  dom_Wikberg_2013bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Wikberg_2013bAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 415 ms, sys: 127 ms, total: 542 ms
+Wall time: 6.64 s
+
+
+55
+HANDLING  dom_Diniz_2019AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Diniz_2019AEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 448 ms, sys: 193 ms, total: 641 ms
+Wall time: 7.58 s
+
+
+56
+HANDLING  dom_Bonanni_2017dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Bonanni_2017dAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 533 ms, sys: 189 ms, total: 722 ms
+Wall time: 7.29 s
+
+
+57
+HANDLING  dom_Williamson_2016dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2016dAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 582 ms, sys: 191 ms, total: 773 ms
+Wall time: 7.94 s
+
+
+58
+HANDLING  dom_Sharpe_2013bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Sharpe_2013bAEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 563 ms, sys: 98.5 ms, total: 661 ms
+Wall time: 7.89 s
+
+
+59
+HANDLING  dom_ValLaillet_2008cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_ValLaillet_2008cAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 543 ms, sys: 171 ms, total: 714 ms
+Wall time: 7.52 s
+
+
+60
+HANDLING  dom_Lee_2018aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Lee_2018aAEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 524 ms, sys: 202 ms, total: 726 ms
+Wall time: 8.24 s
+
+
+61
+HANDLING  dom_Collias_1950aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Collias_1950aAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 489 ms, sys: 120 ms, total: 609 ms
+Wall time: 7.42 s
+
+
+62
+HANDLING  dom_Fairbanks_1994eAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Fairbanks_1994eAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 528 ms, sys: 184 ms, total: 712 ms
+Wall time: 7.09 s
+
+
+63
+HANDLING  dom_Essler_2016cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Essler_2016cAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.81176, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 511 ms, sys: 319 ms, total: 830 ms
+Wall time: 6.7 s
+
+
+64
+HANDLING  dom_Williamson_2019bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2019bAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 627 ms, sys: 406 ms, total: 1.03 s
+Wall time: 7.65 s
+
+
+65
+HANDLING  dom_Utt_2008aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Utt_2008aAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 533 ms, sys: 190 ms, total: 723 ms
+Wall time: 6.86 s
+
+
+66
+HANDLING  dom_Farentinos_1972cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Farentinos_1972cAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 589 ms, sys: 416 ms, total: 1.01 s
+Wall time: 6.72 s
+
+
+67
+HANDLING  dom_Williamson_2016cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2016cAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 683 ms, sys: 401 ms, total: 1.08 s
+Wall time: 7.52 s
+
+
+68
+HANDLING  dom_Waterhouse_1976bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Waterhouse_1976bAEuler.csv
+Computing the BB partition
+We obtained 19 blocks out of 19 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 767 ms, sys: 252 ms, total: 1.02 s
+Wall time: 15 s
+
+
+69
+HANDLING  dom_Izar_2006AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Izar_2006AEuler.csv
+Computing the BB partition
+We obtained 16 blocks out of 17 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 694 ms, sys: 283 ms, total: 977 ms
+Wall time: 12.3 s
+
+
+70
+HANDLING  dom_Wikberg_2013eAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Wikberg_2013eAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 541 ms, sys: 298 ms, total: 839 ms
+Wall time: 6.7 s
+
+
+71
+HANDLING  dom_Norscia_2015hAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Norscia_2015hAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 1 s, sys: 495 ms, total: 1.5 s
+Wall time: 7.56 s
+
+
+72
+HANDLING  dom_Williamson_2017gAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2017gAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 611 ms, sys: 378 ms, total: 989 ms
+Wall time: 7.66 s
+
+
+73
+HANDLING  dom_Watt_1986cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Watt_1986cAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 535 ms, sys: 272 ms, total: 807 ms
+Wall time: 7.2 s
+
+
+74
+HANDLING  dom_Wittig_2003AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Wittig_2003AEuler.csv
+Computing the BB partition
+We obtained 15 blocks out of 15 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 661 ms, sys: 201 ms, total: 862 ms
+Wall time: 9.23 s
+
+
+75
+HANDLING  dom_Shimoji_2014aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Shimoji_2014aAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 22 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 768 ms, sys: 296 ms, total: 1.06 s
+Wall time: 15.8 s
+
+
+76
+HANDLING  dom_Rovero_1999aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Rovero_1999aAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 485 ms, sys: 237 ms, total: 722 ms
+Wall time: 6.98 s
+
+
+77
+HANDLING  dom_Poisbleau_2005aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Poisbleau_2005aAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.89474, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 482 ms, sys: 314 ms, total: 796 ms
+Wall time: 7.19 s
+
+
+78
+HANDLING  dom_Adcock_2015bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Adcock_2015bAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 542 ms, sys: 385 ms, total: 927 ms
+Wall time: 7.34 s
+
+
+79
+HANDLING  dom_Holekamp_1991AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Holekamp_1991AEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 578 ms, sys: 274 ms, total: 852 ms
+Wall time: 7.33 s
+
+
+80
+HANDLING  dom_Jenks_1995aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Jenks_1995aAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 552 ms, sys: 338 ms, total: 890 ms
+Wall time: 7.25 s
+
+
+81
+HANDLING  dom_Hausfater_1982bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hausfater_1982bAEuler.csv
+Computing the BB partition
+We obtained 20 blocks out of 20 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 745 ms, sys: 293 ms, total: 1.04 s
+Wall time: 16.7 s
+
+
+82
+HANDLING  dom_Miller_2010bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Miller_2010bAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 515 ms, sys: 290 ms, total: 805 ms
+Wall time: 7.21 s
+
+
+83
+HANDLING  dom_Nakano_1995AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Nakano_1995AEuler.csv
+Computing the BB partition
+We obtained 14 blocks out of 14 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 718 ms, sys: 449 ms, total: 1.17 s
+Wall time: 9.41 s
+
+
+84
+HANDLING  dom_Hass_1991AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hass_1991AEuler.csv
+Computing the BB partition
+We obtained 15 blocks out of 17 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 734 ms, sys: 286 ms, total: 1.02 s
+Wall time: 12.5 s
+
+
+85
+HANDLING  dom_Hobson_2015bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hobson_2015bAEuler.csv
+Computing the BB partition
+We obtained 18 blocks out of 18 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 780 ms, sys: 198 ms, total: 978 ms
+Wall time: 9.62 s
+
+
+86
+HANDLING  dom_Vervaecke_2010aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Vervaecke_2010aAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 584 ms, sys: 373 ms, total: 958 ms
+Wall time: 6.83 s
+
+
+87
+HANDLING  dom_Rutberg_1986aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Rutberg_1986aAEuler.csv
+Computing the BB partition
+We obtained 25 blocks out of 29 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 1.13 s, sys: 737 ms, total: 1.87 s
+Wall time: 42.3 s
+
+
+88
+HANDLING  dom_Appleby_1983AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Appleby_1983AEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 477 ms, sys: 364 ms, total: 840 ms
+Wall time: 6.62 s
+
+
+89
+HANDLING  dom_Frank_1986aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Frank_1986aAEuler.csv
+Computing the BB partition
+We obtained 13 blocks out of 25 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 964 ms, sys: 521 ms, total: 1.48 s
+Wall time: 32.1 s
+
+
+90
+HANDLING  dom_Natoli_1991AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Natoli_1991AEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 14 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 680 ms, sys: 452 ms, total: 1.13 s
+Wall time: 8.5 s
+
+
+91
+HANDLING  dom_Williams_1972AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williams_1972AEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 1.17 s, sys: 680 ms, total: 1.85 s
+Wall time: 7.69 s
+
+
+92
+HANDLING  dom_Anderson_2016dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Anderson_2016dAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 520 ms, sys: 339 ms, total: 859 ms
+Wall time: 7.26 s
+
+
+93
+HANDLING  dom_Fairbanks_1994cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Fairbanks_1994cAEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 11 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 609 ms, sys: 425 ms, total: 1.03 s
+Wall time: 7.4 s
+
+
+94
+HANDLING  dom_Koutnik_1981bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Koutnik_1981bAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 572 ms, sys: 418 ms, total: 989 ms
+Wall time: 6.94 s
+
+
+95
+HANDLING  dom_Norscia_2015cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Norscia_2015cAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 497 ms, sys: 228 ms, total: 725 ms
+Wall time: 7.12 s
+
+
+96
+HANDLING  dom_WestEberhard_1986AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_WestEberhard_1986AEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 7 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.5, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 535 ms, sys: 424 ms, total: 960 ms
+Wall time: 6.73 s
+
+
+97
+HANDLING  dom_Barette_1986AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Barette_1986AEuler.csv
+Computing the BB partition
+We obtained 20 blocks out of 20 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 768 ms, sys: 341 ms, total: 1.11 s
+Wall time: 15.2 s
+
+
+98
+HANDLING  dom_Isbell_1998aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Isbell_1998aAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 648 ms, sys: 390 ms, total: 1.04 s
+Wall time: 7.23 s
+
+
+99
+HANDLING  dom_Mwamende_2009bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Mwamende_2009bAEuler.csv
+Computing the BB partition
+We obtained 19 blocks out of 19 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.8, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 680 ms, sys: 176 ms, total: 857 ms
+Wall time: 9.62 s
+
+
+100
+HANDLING  dom_Bromley_1991AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Bromley_1991AEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.4, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 484 ms, sys: 333 ms, total: 818 ms
+Wall time: 7.13 s
+
+
+101
+HANDLING  dom_StrayerCummins_1980cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_StrayerCummins_1980cAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 512 ms, sys: 322 ms, total: 835 ms
+Wall time: 6.97 s
+
+
+102
+HANDLING  dom_Williamson_2016eAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2016eAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 553 ms, sys: 311 ms, total: 864 ms
+Wall time: 7.36 s
+
+
+103
+HANDLING  dom_Sharpe_2013cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Sharpe_2013cAEuler.csv
+Computing the BB partition
+We obtained 18 blocks out of 18 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 686 ms, sys: 188 ms, total: 874 ms
+Wall time: 13.8 s
+
+
+104
+HANDLING  dom_Arlet_2015fAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Arlet_2015fAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.97333, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 501 ms, sys: 126 ms, total: 627 ms
+Wall time: 7.16 s
+
+
+105
+HANDLING  dom_Watt_1986eAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Watt_1986eAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.95, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 511 ms, sys: 313 ms, total: 823 ms
+Wall time: 7.55 s
+
+
+106
+HANDLING  dom_Watson_1970bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Watson_1970bAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 488 ms, sys: 243 ms, total: 731 ms
+Wall time: 6.66 s
+
+
+107
+HANDLING  dom_Poisbleau_2006bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Poisbleau_2006bAEuler.csv
+Computing the BB partition
+We obtained 19 blocks out of 19 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 802 ms, sys: 516 ms, total: 1.32 s
+Wall time: 10.1 s
+
+
+108
+HANDLING  dom_Wikberg_2013cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Wikberg_2013cAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 546 ms, sys: 457 ms, total: 1 s
+Wall time: 6.64 s
+
+
+109
+HANDLING  dom_Trebouet_2019cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Trebouet_2019cAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 588 ms, sys: 391 ms, total: 979 ms
+Wall time: 7.25 s
+
+
+110
+HANDLING  dom_Tamura_1988AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Tamura_1988AEuler.csv
+Computing the BB partition
+We obtained 15 blocks out of 15 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 667 ms, sys: 465 ms, total: 1.13 s
+Wall time: 8.09 s
+
+
+111
+HANDLING  dom_Roell_1978AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Roell_1978AEuler.csv
+Computing the BB partition
+We obtained 18 blocks out of 18 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 766 ms, sys: 437 ms, total: 1.2 s
+Wall time: 13.8 s
+
+
+112
+HANDLING  dom_Williamson_2019aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2019aAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 538 ms, sys: 317 ms, total: 855 ms
+Wall time: 7.47 s
+
+
+113
+HANDLING  dom_Yasukawa_1983fAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Yasukawa_1983fAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 424 ms, sys: 397 ms, total: 821 ms
+Wall time: 6.58 s
+
+
+114
+HANDLING  dom_Hausfater_1975aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hausfater_1975aAEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 520 ms, sys: 253 ms, total: 774 ms
+Wall time: 8.34 s
+
+
+115
+HANDLING  dom_SatohOhkawara_2008cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_SatohOhkawara_2008cAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 452 ms, sys: 125 ms, total: 576 ms
+Wall time: 7.21 s
+
+
+116
+HANDLING  dom_Norscia_2015fAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Norscia_2015fAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 527 ms, sys: 271 ms, total: 797 ms
+Wall time: 7.42 s
+
+
+117
+HANDLING  dom_Holekamp_1993bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Holekamp_1993bAEuler.csv
+Computing the BB partition
+We obtained 17 blocks out of 17 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 1.38 s, sys: 571 ms, total: 1.95 s
+Wall time: 9.44 s
+
+
+118
+HANDLING  dom_Slotow_1993AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Slotow_1993AEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 468 ms, sys: 228 ms, total: 695 ms
+Wall time: 7.46 s
+
+
+119
+HANDLING  dom_Surbeck_2011AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Surbeck_2011AEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 489 ms, sys: 411 ms, total: 900 ms
+Wall time: 7.51 s
+
+
+120
+HANDLING  dom_Williamson_2017iAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2017iAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 601 ms, sys: 371 ms, total: 972 ms
+Wall time: 8.85 s
+
+
+121
+HANDLING  dom_SomersNel_1998cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_SomersNel_1998cAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 518 ms, sys: 279 ms, total: 796 ms
+Wall time: 7.41 s
+
+
+122
+HANDLING  dom_Tong_2020bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Tong_2020bAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 528 ms, sys: 386 ms, total: 914 ms
+Wall time: 7.15 s
+
+
+123
+HANDLING  dom_Smith_1976AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Smith_1976AEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 589 ms, sys: 404 ms, total: 993 ms
+Wall time: 6.99 s
+
+
+124
+HANDLING  dom_NewtonFisher_2004bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_NewtonFisher_2004bAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 576 ms, sys: 294 ms, total: 871 ms
+Wall time: 8.52 s
+
+
+125
+HANDLING  dom_Lee_2017cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Lee_2017cAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 664 ms, sys: 531 ms, total: 1.19 s
+Wall time: 7.39 s
+
+
+126
+HANDLING  dom_Hirsch_2007bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hirsch_2007bAEuler.csv
+Computing the BB partition
+We obtained 29 blocks out of 29 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 1.12 s, sys: 533 ms, total: 1.66 s
+Wall time: 29.6 s
+
+
+127
+HANDLING  dom_Langbein_2004dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Langbein_2004dAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 514 ms, sys: 181 ms, total: 695 ms
+Wall time: 7.11 s
+
+
+128
+HANDLING  dom_Lott_1987AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Lott_1987AEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 11 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 569 ms, sys: 428 ms, total: 998 ms
+Wall time: 7.97 s
+
+
+129
+HANDLING  dom_Robbins_2008AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Robbins_2008AEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 460 ms, sys: 372 ms, total: 832 ms
+Wall time: 7.26 s
+
+
+130
+HANDLING  dom_Hirotani_1994AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hirotani_1994AEuler.csv
+Computing the BB partition
+We obtained 13 blocks out of 13 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 630 ms, sys: 466 ms, total: 1.1 s
+Wall time: 7.96 s
+
+
+131
+HANDLING  dom_Wikberg_2013fAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Wikberg_2013fAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 520 ms, sys: 262 ms, total: 782 ms
+Wall time: 7.12 s
+
+
+132
+HANDLING  dom_Williamson_2017dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2017dAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 519 ms, sys: 247 ms, total: 766 ms
+Wall time: 7.48 s
+
+
+133
+HANDLING  dom_Archie_2006gAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Archie_2006gAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 503 ms, sys: 198 ms, total: 701 ms
+Wall time: 7.11 s
+
+
+134
+HANDLING  dom_Seyfarth_1976cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Seyfarth_1976cAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 544 ms, sys: 213 ms, total: 757 ms
+Wall time: 7.16 s
+
+
+135
+HANDLING  dom_Waterhouse_1976aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Waterhouse_1976aAEuler.csv
+Computing the BB partition
+We obtained 20 blocks out of 20 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.5, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 805 ms, sys: 381 ms, total: 1.19 s
+Wall time: 19.9 s
+
+
+136
+HANDLING  dom_Thompson_1960bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Thompson_1960bAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 504 ms, sys: 464 ms, total: 969 ms
+Wall time: 7.08 s
+
+
+137
+HANDLING  dom_Williamson_2017oAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2017oAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 584 ms, sys: 487 ms, total: 1.07 s
+Wall time: 7.52 s
+
+
+138
+HANDLING  dom_Shoemaker_1939AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Shoemaker_1939AEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 560 ms, sys: 357 ms, total: 916 ms
+Wall time: 7.12 s
+
+
+139
+HANDLING  dom_Post_1992AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Post_1992AEuler.csv
+Computing the BB partition
+We obtained 15 blocks out of 15 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 737 ms, sys: 480 ms, total: 1.22 s
+Wall time: 8.95 s
+
+
+140
+HANDLING  dom_Frank_1986bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Frank_1986bAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 13 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 607 ms, sys: 213 ms, total: 820 ms
+Wall time: 8.1 s
+
+
+141
+HANDLING  dom_Dubosq2013fAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Dubosq2013fAEuler.csv
+Computing the BB partition
+We obtained 21 blocks out of 21 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 798 ms, sys: 225 ms, total: 1.02 s
+Wall time: 55.4 s
+
+
+142
+HANDLING  dom_ValLaillet_2008fAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_ValLaillet_2008fAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 587 ms, sys: 189 ms, total: 776 ms
+Wall time: 7.65 s
+
+
+143
+HANDLING  dom_Tong_2020dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Tong_2020dAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 508 ms, sys: 215 ms, total: 723 ms
+Wall time: 7.02 s
+
+
+144
+HANDLING  dom_Vervaecke_2010bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Vervaecke_2010bAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 560 ms, sys: 109 ms, total: 669 ms
+Wall time: 15min 50s
+
+
+145
+HANDLING  dom_BergstromFedigan_2010bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_BergstromFedigan_2010bAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.75, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 510 ms, sys: 188 ms, total: 699 ms
+Wall time: 6.99 s
+
+
+146
+HANDLING  dom_McDougall_2010AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_McDougall_2010AEuler.csv
+Computing the BB partition
+We obtained 22 blocks out of 22 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 764 ms, sys: 187 ms, total: 951 ms
+Wall time: 2min 24s
+
+
+147
+HANDLING  dom_Hausfater_1982aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hausfater_1982aAEuler.csv
+Computing the BB partition
+We obtained 14 blocks out of 14 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 722 ms, sys: 244 ms, total: 966 ms
+Wall time: 9.47 s
+
+
+148
+HANDLING  dom_Williamson_2019gAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2019gAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 550 ms, sys: 305 ms, total: 855 ms
+Wall time: 8.31 s
+
+
+149
+HANDLING  dom_Jenks_1995bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Jenks_1995bAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 1.48 s, sys: 638 ms, total: 2.12 s
+Wall time: 8.37 s
+
+
+150
+HANDLING  dom_Vervaecke_2000AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Vervaecke_2000AEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 549 ms, sys: 450 ms, total: 999 ms
+Wall time: 6.63 s
+
+
+151
+HANDLING  dom_Bonanni_2007bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Bonanni_2007bAEuler.csv
+Computing the BB partition
+We obtained 14 blocks out of 14 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 632 ms, sys: 298 ms, total: 930 ms
+Wall time: 8.73 s
+
+
+152
+HANDLING  dom_White_2007cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_White_2007cAEuler.csv
+Computing the BB partition
+We obtained 4 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 450 ms, sys: 266 ms, total: 716 ms
+Wall time: 6.6 s
+
+
+153
+HANDLING  dom_Archie_2006aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Archie_2006aAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 435 ms, sys: 186 ms, total: 621 ms
+Wall time: 7.07 s
+
+
+154
+HANDLING  dom_Williamson_2017bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2017bAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 565 ms, sys: 327 ms, total: 892 ms
+Wall time: 7.64 s
+
+
+155
+HANDLING  dom_Nelissen_1985bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Nelissen_1985bAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 543 ms, sys: 444 ms, total: 987 ms
+Wall time: 7.51 s
+
+
+156
+HANDLING  dom_Russell_1970bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Russell_1970bAEuler.csv
+Computing the BB partition
+We obtained 13 blocks out of 13 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 568 ms, sys: 345 ms, total: 913 ms
+Wall time: 7.7 s
+
+
+157
+HANDLING  dom_Moller_1987bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Moller_1987bAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.89855, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 556 ms, sys: 382 ms, total: 938 ms
+Wall time: 7.55 s
+
+
+158
+HANDLING  dom_Paoli_2006AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Paoli_2006AEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 549 ms, sys: 304 ms, total: 853 ms
+Wall time: 6.8 s
+
+
+159
+HANDLING  dom_Hewitt_2009cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hewitt_2009cAEuler.csv
+Computing the BB partition
+We obtained 14 blocks out of 14 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 670 ms, sys: 466 ms, total: 1.14 s
+Wall time: 8.01 s
+
+
+160
+HANDLING  dom_Thompson_1960dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Thompson_1960dAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 577 ms, sys: 492 ms, total: 1.07 s
+Wall time: 7.37 s
+
+
+161
+HANDLING  dom_Tong_2020iAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Tong_2020iAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 593 ms, sys: 335 ms, total: 927 ms
+Wall time: 7.53 s
+
+
+162
+HANDLING  dom_Seyfarth_1976eAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Seyfarth_1976eAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 607 ms, sys: 428 ms, total: 1.04 s
+Wall time: 6.92 s
+
+
+163
+HANDLING  dom_Langbein_2004bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Langbein_2004bAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 554 ms, sys: 341 ms, total: 895 ms
+Wall time: 7.62 s
+
+
+164
+HANDLING  dom_Hirsch_2007dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hirsch_2007dAEuler.csv
+Computing the BB partition
+We obtained 27 blocks out of 27 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 955 ms, sys: 434 ms, total: 1.39 s
+Wall time: 24.4 s
+
+
+165
+HANDLING  dom_Harcourt_1979AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Harcourt_1979AEuler.csv
+Computing the BB partition
+We obtained 5 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 509 ms, sys: 223 ms, total: 732 ms
+Wall time: 6.77 s
+
+
+166
+HANDLING  dom_Pardi_1948bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Pardi_1948bAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 465 ms, sys: 168 ms, total: 632 ms
+Wall time: 7.76 s
+
+
+167
+HANDLING  dom_Trunzer_1999AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Trunzer_1999AEuler.csv
+Computing the BB partition
+We obtained 19 blocks out of 19 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.33333, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 926 ms, sys: 523 ms, total: 1.45 s
+Wall time: 15.7 s
+
+
+168
+HANDLING  dom_Watts_1994cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Watts_1994cAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 454 ms, sys: 273 ms, total: 727 ms
+Wall time: 7.12 s
+
+
+169
+HANDLING  dom_Struhsaker_1967bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Struhsaker_1967bAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 581 ms, sys: 412 ms, total: 993 ms
+Wall time: 7.89 s
+
+
+170
+HANDLING  dom_Myrberg_1972AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Myrberg_1972AEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 631 ms, sys: 413 ms, total: 1.04 s
+Wall time: 7.17 s
+
+
+171
+HANDLING  dom_Douglis_1948aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Douglis_1948aAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 475 ms, sys: 242 ms, total: 716 ms
+Wall time: 7.07 s
+
+
+172
+HANDLING  dom_Trebouet_2019bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Trebouet_2019bAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 535 ms, sys: 456 ms, total: 991 ms
+Wall time: 6.8 s
+
+
+173
+HANDLING  dom_Dubosq2013aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Dubosq2013aAEuler.csv
+Computing the BB partition
+We obtained 15 blocks out of 15 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 648 ms, sys: 368 ms, total: 1.02 s
+Wall time: 10.2 s
+
+
+174
+HANDLING  dom_SomersNel_1998bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_SomersNel_1998bAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 490 ms, sys: 224 ms, total: 714 ms
+Wall time: 6.94 s
+
+
+175
+HANDLING  dom_ValLaillet_2008aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_ValLaillet_2008aAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 507 ms, sys: 170 ms, total: 676 ms
+Wall time: 7.63 s
+
+
+176
+HANDLING  dom_Tong_2020cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Tong_2020cAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 515 ms, sys: 168 ms, total: 683 ms
+Wall time: 6.97 s
+
+
+177
+HANDLING  dom_Yasukawa_1983gAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Yasukawa_1983gAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 485 ms, sys: 238 ms, total: 723 ms
+Wall time: 6.76 s
+
+
+178
+HANDLING  dom_David_2003aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_David_2003aAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 474 ms, sys: 350 ms, total: 824 ms
+Wall time: 7.03 s
+
+
+179
+HANDLING  dom_SatohOhkawara_2008bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_SatohOhkawara_2008bAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 565 ms, sys: 593 ms, total: 1.16 s
+Wall time: 6.8 s
+
+
+180
+HANDLING  dom_Norscia_2015gAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Norscia_2015gAEuler.csv
+Computing the BB partition
+We obtained 13 blocks out of 13 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 683 ms, sys: 534 ms, total: 1.22 s
+Wall time: 8.22 s
+
+
+181
+HANDLING  dom_Williamson_2017hAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2017hAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 660 ms, sys: 459 ms, total: 1.12 s
+Wall time: 7.47 s
+
+
+182
+HANDLING  dom_Hirsch_2007cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hirsch_2007cAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 620 ms, sys: 472 ms, total: 1.09 s
+Wall time: 7.41 s
+
+
+183
+HANDLING  dom_Seyfarth_1976bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Seyfarth_1976bAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 532 ms, sys: 371 ms, total: 903 ms
+Wall time: 6.95 s
+
+
+184
+HANDLING  dom_Bonanni_2017aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Bonanni_2017aAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.78788, 0.98485, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 410 ms, sys: 178 ms, total: 588 ms
+Wall time: 6.84 s
+
+
+185
+HANDLING  dom_Thompson_1960cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Thompson_1960cAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 578 ms, sys: 220 ms, total: 798 ms
+Wall time: 6.96 s
+
+
+186
+HANDLING  dom_Samuels_1987AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Samuels_1987AEuler.csv
+Computing the BB partition
+We obtained 19 blocks out of 19 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 799 ms, sys: 472 ms, total: 1.27 s
+Wall time: 11.8 s
+
+
+187
+HANDLING  dom_Solberg_1997aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Solberg_1997aAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 617 ms, sys: 590 ms, total: 1.21 s
+Wall time: 7.05 s
+
+
+188
+HANDLING  dom_Norscia_2015jAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Norscia_2015jAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 11 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 583 ms, sys: 284 ms, total: 866 ms
+Wall time: 7.37 s
+
+
+189
+HANDLING  dom_Hewitt_2009dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hewitt_2009dAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 512 ms, sys: 313 ms, total: 825 ms
+Wall time: 7.02 s
+
+
+190
+HANDLING  dom_Archie_2006fAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Archie_2006fAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 1.73 s, sys: 906 ms, total: 2.64 s
+Wall time: 8.02 s
+
+
+191
+HANDLING  dom_Williamson_2017eAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2017eAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 600 ms, sys: 411 ms, total: 1.01 s
+Wall time: 7.74 s
+
+
+192
+HANDLING  dom_Johnson_2017AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Johnson_2017AEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 11 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 617 ms, sys: 357 ms, total: 973 ms
+Wall time: 7.32 s
+
+
+193
+HANDLING  dom_Samuels_1987bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Samuels_1987bAEuler.csv
+Computing the BB partition
+We obtained 18 blocks out of 19 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 768 ms, sys: 406 ms, total: 1.17 s
+Wall time: 11.6 s
+
+
+194
+HANDLING  dom_deWaal_1977bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_deWaal_1977bAEuler.csv
+Computing the BB partition
+We obtained 17 blocks out of 17 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 745 ms, sys: 531 ms, total: 1.28 s
+Wall time: 9.62 s
+
+
+195
+HANDLING  dom_Koenig_2004AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Koenig_2004AEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 578 ms, sys: 439 ms, total: 1.02 s
+Wall time: 6.79 s
+
+
+196
+HANDLING  dom_Alados_1992aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Alados_1992aAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 524 ms, sys: 372 ms, total: 896 ms
+Wall time: 6.84 s
+
+
+197
+HANDLING  dom_Collias_1951aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Collias_1951aAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 9 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 478 ms, sys: 235 ms, total: 713 ms
+Wall time: 7.28 s
+
+
+198
+HANDLING  dom_Lee_2019aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Lee_2019aAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 684 ms, sys: 496 ms, total: 1.18 s
+Wall time: 7.5 s
+
+
+199
+HANDLING  dom_Tong_2020eAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Tong_2020eAEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 11 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 546 ms, sys: 339 ms, total: 886 ms
+Wall time: 7.4 s
+
+
+200
+HANDLING  dom_Cui_2014AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Cui_2014AEuler.csv
+Computing the BB partition
+We obtained 14 blocks out of 14 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 609 ms, sys: 263 ms, total: 872 ms
+Wall time: 9.13 s
+
+
+201
+HANDLING  dom_ScottLockhard_1999bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_ScottLockhard_1999bAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+INTERESTING VALUE in (0,1.0)!!!!!!!!
+
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 0.66667, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 443 ms, sys: 255 ms, total: 698 ms
+Wall time: 6.67 s
+
+
+202
+HANDLING  dom_Williamson_2017nAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2017nAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 572 ms, sys: 293 ms, total: 865 ms
+Wall time: 7.52 s
+
+
+203
+HANDLING  dom_Fairbanks_1994aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Fairbanks_1994aAEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 573 ms, sys: 323 ms, total: 896 ms
+Wall time: 7.74 s
+
+
+204
+HANDLING  dom_Yasukawa_1983aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Yasukawa_1983aAEuler.csv
+Computing the BB partition
+We obtained 6 blocks out of 6 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 458 ms, sys: 364 ms, total: 821 ms
+Wall time: 6.88 s
+
+
+205
+HANDLING  dom_Thompson_1993aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Thompson_1993aAEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 11 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 575 ms, sys: 245 ms, total: 820 ms
+Wall time: 7.91 s
+
+
+206
+HANDLING  dom_Norscia_2015aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Norscia_2015aAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 572 ms, sys: 345 ms, total: 917 ms
+Wall time: 7.51 s
+
+
+207
+HANDLING  dom_Williamson_2019fAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2019fAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 610 ms, sys: 372 ms, total: 982 ms
+Wall time: 7.72 s
+
+
+208
+HANDLING  dom_Funkhouser_2018aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Funkhouser_2018aAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 516 ms, sys: 286 ms, total: 802 ms
+Wall time: 6.64 s
+
+
+209
+HANDLING  dom_Myrberg_1974AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Myrberg_1974AEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 557 ms, sys: 371 ms, total: 928 ms
+Wall time: 7.15 s
+
+
+210
+HANDLING  dom_White_2007bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_White_2007bAEuler.csv
+Computing the BB partition
+We obtained 5 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 684 ms, sys: 516 ms, total: 1.2 s
+Wall time: 7.88 s
+
+
+211
+HANDLING  dom_Bonanni_2007cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Bonanni_2007cAEuler.csv
+Computing the BB partition
+We obtained 13 blocks out of 14 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 708 ms, sys: 505 ms, total: 1.21 s
+Wall time: 8.66 s
+
+
+212
+HANDLING  dom_Trebouet_2019dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Trebouet_2019dAEuler.csv
+Computing the BB partition
+We obtained 20 blocks out of 22 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 788 ms, sys: 343 ms, total: 1.13 s
+Wall time: 20.3 s
+
+
+213
+HANDLING  dom_Vervaecke_2010cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Vervaecke_2010cAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 581 ms, sys: 337 ms, total: 918 ms
+Wall time: 6.84 s
+
+
+214
+HANDLING  dom_BergstromFedigan_2010cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_BergstromFedigan_2010cAEuler.csv
+Computing the BB partition
+We obtained 9 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 517 ms, sys: 258 ms, total: 776 ms
+Wall time: 7.66 s
+
+
+215
+HANDLING  dom_Thompson_1960eAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Thompson_1960eAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 532 ms, sys: 383 ms, total: 915 ms
+Wall time: 6.96 s
+
+
+216
+HANDLING  dom_Seyfarth_1976dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Seyfarth_1976dAEuler.csv
+Computing the BB partition
+We obtained 8 blocks out of 8 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 522 ms, sys: 316 ms, total: 837 ms
+Wall time: 6.91 s
+
+
+217
+HANDLING  dom_Tong_2020hAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Tong_2020hAEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 11 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 600 ms, sys: 464 ms, total: 1.06 s
+Wall time: 7.52 s
+
+
+218
+HANDLING  dom_Williamson_2017cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Williamson_2017cAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 595 ms, sys: 351 ms, total: 945 ms
+Wall time: 7.42 s
+
+
+219
+HANDLING  dom_Moller_1987cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Moller_1987cAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 14 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 685 ms, sys: 391 ms, total: 1.08 s
+Wall time: 9.07 s
+
+
+220
+HANDLING  dom_Hewitt_2009bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Hewitt_2009bAEuler.csv
+Computing the BB partition
+We obtained 7 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 479 ms, sys: 425 ms, total: 904 ms
+Wall time: 6.73 s
+
+
+221
+HANDLING  dom_Zine_2000AEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Zine_2000AEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 681 ms, sys: 487 ms, total: 1.17 s
+Wall time: 7.84 s
+
+
+222
+HANDLING  dom_Watts_1994bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Watts_1994bAEuler.csv
+Computing the BB partition
+We obtained 11 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 577 ms, sys: 379 ms, total: 957 ms
+Wall time: 8.37 s
+
+
+223
+HANDLING  dom_Lee_2017dAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Lee_2017dAEuler.csv
+Computing the BB partition
+We obtained 12 blocks out of 12 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 610 ms, sys: 427 ms, total: 1.04 s
+Wall time: 7.71 s
+
+
+224
+HANDLING  dom_Sandel_2017bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Sandel_2017bAEuler.csv
+Computing the BB partition
+We obtained 5 blocks out of 23 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 831 ms, sys: 425 ms, total: 1.26 s
+Wall time: 16.5 s
+
+
+225
+HANDLING  dom_SchjelderupEbbe_1922aAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_SchjelderupEbbe_1922aAEuler.csv
+Computing the BB partition
+We obtained 5 blocks out of 7 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 598 ms, sys: 460 ms, total: 1.06 s
+Wall time: 6.86 s
+
+
+226
+HANDLING  dom_Lu_2008bAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Lu_2008bAEuler.csv
+Computing the BB partition
+We obtained 13 blocks out of 13 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 562 ms, sys: 290 ms, total: 852 ms
+Wall time: 8.1 s
+
+
+227
+HANDLING  dom_Langbein_2004cAEuler.csv
+Starting the JVM and ERODE
+  Completed
+Loading the model in ERODE weightedGraphs/csvEuler/dom_Langbein_2004cAEuler.csv
+Computing the BB partition
+We obtained 10 blocks out of 10 variables
+Computing the metrics
+We have trimmed values larger than 1.0 to 1.0
+The values of the metrics, sorted
+[0.0, 1.0]
+Terminating JVM and ERODE
+ Completed
+CPU times: user 597 ms, sys: 276 ms, total: 872 ms
+Wall time: 7.52 s

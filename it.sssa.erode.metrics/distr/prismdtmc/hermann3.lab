@@ -1,0 +1,11 @@
+#DECLARATION
+init deadlock stable
+#END
+1 init
+2 init stable
+3 init stable
+4 init stable
+5 init stable
+6 init stable
+7 init stable
+8 init

@@ -1,0 +1,8 @@
+#DECLARATION
+init deadlock
+#END
+1 init
+2 deadlock
+7 deadlock
+11 deadlock
+15 deadlock

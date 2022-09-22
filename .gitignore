@@ -103,3 +103,14 @@ it.sssa.erode.metrics/distr/prismdtmc/brpN1.MAX2.tra_lambda1.0BB.csv
 it.sssa.erode.metrics/distr/prismdtmc/brpN1.MAX2.tra_lambda1.0clusterMap.pdf
 it.sssa.erode.metrics/distr/prismdtmc/brpN1.MAX2.tra_lambda1.0upper_diagonal.pdf
 it.sssa.erode.metrics/distr/weightedGraphs
+it.sssa.erode.metrics/distr/test_lambda200000.0clusterMap.pdf
+it.sssa.erode.metrics/distr/test_lambda200000.0.pdf
+it.sssa.erode.metrics/distr/test_lambda200.0clusterMap.pdf
+it.sssa.erode.metrics/distr/test_lambda200.0.pdf
+it.sssa.erode.metrics/distr/test_lambda2.0clusterMap.pdf
+it.sssa.erode.metrics/distr/test_lambda2.0.pdf
+it.sssa.erode.metrics/distr/test_lambda1.0upper_diagonal.pdf
+it.sssa.erode.metrics/distr/test_lambda1.0clusterMap.pdf
+it.sssa.erode.metrics/distr/save_as_a_pdf.pdf
+it.sssa.erode.metrics/distr/save_as_a_pdf.png
+it.sssa.erode.metrics/distr/save_as_a_png.png
